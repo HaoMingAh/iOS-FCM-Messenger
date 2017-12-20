@@ -1,0 +1,6 @@
+framework module EBForeNotification {
+  umbrella header "EBForeNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

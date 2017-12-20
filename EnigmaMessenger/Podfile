@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'EnigmaMessenger' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for EnigmaMessenger
+
+pod 'Alamofire', '~> 4.0'
+pod 'SVProgressHUD'
+pod 'SDWebImage', '~>4.0'
+pod 'CRToast', '~> 0.0.9'
+pod 'IQKeyboardManagerSwift'
+pod 'SwiftyUserDefaults'
+pod 'SwiftyJSON'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
+pod 'EBForeNotification'
+pod 'JSQMessagesViewController'
+pod 'libPhoneNumber-iOS', '~> 0.8'
+pod 'Material', '~> 2.0'
+pod 'APAddressBook'
+pod 'Fabric'
+pod 'Crashlytics'
+
+end

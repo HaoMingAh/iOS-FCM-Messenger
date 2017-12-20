@@ -1,0 +1,103 @@
+PODS:
+  - Alamofire (4.5.0)
+  - APAddressBook (0.3.1):
+    - APAddressBook/Core (= 0.3.1)
+  - APAddressBook/Core (0.3.1)
+  - Crashlytics (3.8.5):
+    - Fabric (~> 1.6.3)
+  - CRToast (0.0.9)
+  - EBForeNotification (1.0.7)
+  - Fabric (1.6.12)
+  - Firebase/Core (4.0.4):
+    - FirebaseAnalytics (= 4.0.2)
+    - FirebaseCore (= 4.0.4)
+  - Firebase/Messaging (4.0.4):
+    - Firebase/Core
+    - FirebaseMessaging (= 2.0.0)
+  - FirebaseAnalytics (4.0.2):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (4.0.4):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseInstanceID (2.0.0):
+    - FirebaseCore (~> 4.0)
+  - FirebaseMessaging (2.0.0):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/Logger (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - IQKeyboardManagerSwift (4.0.11)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - libPhoneNumber-iOS (0.9.10)
+  - Material (2.9.0):
+    - Material/Core (= 2.9.0)
+  - Material/Core (2.9.0)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - Protobuf (3.3.0)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SVProgressHUD (2.1.2)
+  - SwiftyJSON (3.1.4)
+  - SwiftyUserDefaults (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - APAddressBook
+  - Crashlytics
+  - CRToast (~> 0.0.9)
+  - EBForeNotification
+  - Fabric
+  - Firebase/Core
+  - Firebase/Messaging
+  - IQKeyboardManagerSwift
+  - JSQMessagesViewController
+  - libPhoneNumber-iOS (~> 0.8)
+  - Material (~> 2.0)
+  - SDWebImage (~> 4.0)
+  - SVProgressHUD
+  - SwiftyJSON
+  - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  APAddressBook: f7e50fce276ae975c202b83b0ee98f4efde5a104
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
+  CRToast: 5a78c22b921c5ed3487488af605bc403a9c92fed
+  EBForeNotification: d2426fa084f7af912c665b80529cfb3fe5dbdb79
+  Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
+  Firebase: 1492bf04e1b73a7353b4fb2cf5a20bac9692f341
+  FirebaseAnalytics: ad41720e3e67fc63fbe3d2948d3e26932a8de311
+  FirebaseCore: cfc042628ef9f20debe09c0eb683135fcd404cb4
+  FirebaseInstanceID: 9fbf536668f4d3f0880e7438456dabd1376e294b
+  FirebaseMessaging: 227406c05b0dc9290702d2e9f18ab5528f0c2cf2
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  IQKeyboardManagerSwift: 10f0a6b8ea2904c8943c0e1a116c99f5b8ad83af
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  libPhoneNumber-iOS: f721ae4d5854bce60934f9fb9b0b28e8e68913cb
+  Material: 8cb0f31ce60e750cba8a02312c02bf3aef92fad3
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  Protobuf: d582fecf68201eac3d79ed61369ef45734394b9c
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+
+PODFILE CHECKSUM: a6d6de86b20948d50272b15171d71b4c70d33ff5
+
+COCOAPODS: 1.1.1
